@@ -16,6 +16,8 @@ Repositório criado para o Bootcamp Santander da [Digital Inovation One](https:/
 git init 
 git clone "URL"  "pasta de destino"
 git status
+git add
+
 ```
 
 ## 🔎 Referências
