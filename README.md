@@ -10,13 +10,15 @@ Repositório criado para o Bootcamp Santander da [Digital Inovation One](https:/
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositorio Local | [Resumos]() |
+| Gravando alterações no Repositorio Local | [Resumos](resumos/resumo-aula1-git.md) |
 
 ```
 git init 
 git clone "URL"  "pasta de destino"
 git status
 git add
+git commit -m"descrição do commit"
+git log 
 
 ```
 
