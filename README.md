@@ -10,8 +10,9 @@ Repositório criado para o Bootcamp Santander da [Digital Inovation One](https:/
 
 | Aulas | Resumos |
 |-------|---------|
-| Salvando alterações no Repositorio Local | [Resumos](resumos/resumo-aula1-git.md) |
-| Desfazendo alterações no Repositorio Local | [Resumos](resumos/resumo-aula2-git.md) |
+| Salvando alterações no Repositorio Local | [Resumo Aula 1](resumos/resumo-aula1-git.md) |
+| Desfazendo alterações - Enviando para o repositório Remoto | [Resumo Aula 2](resumos/resumo-aula2-git.md) |
+| Trabalhando com Branches | [Resumo Aula 3](resumos/resumo-aula3-git.md) |
 
 ```
 git init 

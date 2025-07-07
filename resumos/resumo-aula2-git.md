@@ -1,5 +1,6 @@
 # 🗒️ Resumo aula 2 Git
 
+- Com o site do GitHub aberto no repositório clique em "." (ponto) para abrir a interface do VisualStudioCode online.
 
 | Comandos | Descrição |
 |----------|-----------|
@@ -8,4 +9,6 @@
 | git reset --hard | reestrutura todo o projeto de acordo com commit escolhido |
 | git restore --staged 'nome do arquivo' | Remove o arquivo nomeado do controle do git |
 | git remote add origin 'https://github.com/Tiago199516/repo-remoto' | Liga o repositório remoto com o repositório local |
-|| | Envia arquivos para o repositorio remoto |
+| git push -u origin main | Envia arquivos para o repositorio remoto |
+| git pull | Comando para baixar as alterações feitas no GitHub e manter o repositório na máquina atualizado |
+
