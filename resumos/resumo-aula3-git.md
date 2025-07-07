@@ -5,7 +5,6 @@ Conflitos de Merge ocorrem quando duas pessoas alteram a mesma linha de código 
 
 - Comandos para trabalhar com Branches.
 
-
 | Comandos | Descrição |
 |----------|-----------|
 | git checkout -b "nome da branch"  | Cria uma nova branch do projeto |
